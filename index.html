@@ -31,6 +31,16 @@
       margin-bottom: 2rem;
     }
 
+    .subtitle a {
+      color: #8888aa;
+      text-decoration: none;
+      border-bottom: 1px solid #555;
+    }
+
+    .subtitle a:hover {
+      color: #bbb;
+    }
+
     .cards {
       display: grid;
       grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
@@ -85,7 +95,7 @@
 </head>
 <body>
   <h1>Morro Bay Weather</h1>
-  <p class="subtitle">Back Bay Station</p>
+  <p class="subtitle"><a href="https://sensors.axds.co/stationsearch/?#702702" target="_blank" rel="noopener">Back Bay Station</a></p>
 
   <div class="cards">
     <div class="card temp">
