@@ -1,9 +1,9 @@
 {
   "rain_mm": 0.0,
-  "temperature_c": 10.1,
-  "wind_speed_ms": 2.3,
-  "wind_direction_deg": 60.0,
-  "wind_gust_ms": 2.8,
-  "timestamp": "2026-02-14T07:10:00Z",
-  "fetched_at": "2026-02-14T07:56:34.886801+00:00"
+  "temperature_c": 9.9,
+  "wind_speed_ms": 1.2,
+  "wind_direction_deg": 109.0,
+  "wind_gust_ms": 1.7,
+  "timestamp": "2026-02-14T07:40:00Z",
+  "fetched_at": "2026-02-14T08:08:49.855411+00:00"
 }
