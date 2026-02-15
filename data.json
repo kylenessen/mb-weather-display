@@ -1,4 +1,9 @@
 {
-  "timestamp": null,
-  "fetched_at": "2026-02-15T02:03:31.573717+00:00"
+  "rain_mm": 0.0,
+  "temperature_c": 14.08,
+  "wind_speed_ms": 1.5,
+  "wind_direction_deg": 162.0,
+  "wind_gust_ms": 1.6,
+  "timestamp": "2026-02-15T02:40:00Z",
+  "fetched_at": "2026-02-15T03:13:43.546347+00:00"
 }
